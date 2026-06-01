@@ -1,4 +1,4 @@
-## DHARSHAN G (212225230054)
+## ANIRUTH S (212225040020)
 # 1. NumPy Program: Column-wise Sorting of a 2D Array
 
 ## 🎯 Aim
